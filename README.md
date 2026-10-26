@@ -3,10 +3,34 @@
 
 - 🔭 I’m currently working as a **Data Analyst**
 - 🌱 I’m currently learning **everything that interests me**
-- 👨‍💻 Some of my best projects: [Portfolio](https://github.com/yashbagia1708/Portfolio/tree/master)
+- 👨‍💻 Some of my best projects: [see below](#projects)
 - 💬 Ask me about **DSA, ML, Cloud, and AI**
 - 📫 How to reach me **yashbagia1708@gmail.com**
 - ⚡ Fun fact: **I speak fluent Python, dream in cloud, and occasionally have deep frustrating debates with my code at 2 AM until it turns green.**
+
+## Projects
+
+### 🪐 [exo-agent](https://github.com/yashbagia1708/exo-agent)
+Ask questions in plain English about NASA's 6,000+ confirmed exoplanets. A LangGraph agent splits compound questions, routes each part to SQL over Postgres or a hybrid Wikipedia search (pgvector + full-text, fused with RRF), repairs failed queries, and answers only from the data it found. Runs fully local on Ollama, with a pass-rate eval harness and CI.
+
+`Python` `LangGraph` `PostgreSQL` `pgvector` `Ollama` `FastAPI` `Docker` `GitHub Actions`
+
+### 📞 [Contact Centre Reporting Pipeline](https://github.com/yashbagia1708/eda-contact-centre-pipeline)
+A monthly reporting refresh for a contact centre, end to end: four messy source systems cleaned and conformed in Python, modelled and reconciled in MySQL, and served to a Power BI report and an Excel KPI pack, all run from one Refresh Console. All data is synthetic.
+
+`Python` `pandas` `MySQL` `Power BI` `DAX` `Docker` `GitHub Actions`
+
+### 🚧 Project 3
+Coming soon.
+
+### 🚧 Project 4
+Coming soon.
+
+### 🚧 Project 5
+Coming soon.
+
+### 🚧 Project 6
+Coming soon.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
