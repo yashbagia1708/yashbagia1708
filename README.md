@@ -20,17 +20,18 @@ A monthly reporting refresh for a contact centre, end to end: four messy source 
 
 `Python` `pandas` `MySQL` `Power BI` `DAX` `Docker` `GitHub Actions`
 
-### 🚧 Project 3
-Coming soon.
+### University projects
 
-### 🚧 Project 4
-Coming soon.
+Earlier coursework, each in its own repo with a README of measured results, the bugs found when I revisited it, and CI that reruns it.
 
-### 🚧 Project 5
-Coming soon.
-
-### 🚧 Project 6
-Coming soon.
+- 🔌 **[EV Charging Network](https://github.com/yashbagia1708/ev-charging-network)**: C++ graph algorithms over 24 Sydney charging stations. Dijkstra for the nearest and cheapest charger including travel cost, Prim's MST for the shortest power line.
+  `C++` `Dijkstra` `Prim's MST` `Priority queues`
+- 🖼️ **[CIFAR-10 CNN Autoencoders](https://github.com/yashbagia1708/cifar10-cnn-autoencoders)**: Unsupervised and supervised convolutional autoencoders in PyTorch, with the learned 2-D embeddings plotted by class.
+  `Python` `PyTorch` `CNNs` `Autoencoders`
+- 🔢 **[MNIST and Language Classification](https://github.com/yashbagia1708/mnist-language-classification)**: Logistic regression on MNIST with and without PCA (784 pixels vs 74 components, 140 vs 143 errors in 10,000), plus a small TF-IDF language classifier.
+  `Python` `scikit-learn` `PCA` `TF-IDF`
+- 🩺 **[Blood Pressure Regression](https://github.com/yashbagia1708/blood-pressure-regression)**: Polynomial, linear and ridge regression compared with 10-fold cross-validation, including why a degree-12 "best fit" was a numerical artefact.
+  `Python` `scikit-learn` `Regression` `Cross-validation`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
