@@ -15,7 +15,7 @@ Ask questions in plain English about NASA's 6,000+ confirmed exoplanets. A LangG
 
 `Python` `LangGraph` `PostgreSQL` `pgvector` `Ollama` `FastAPI` `Docker` `GitHub Actions`
 
-### 📞 [Contact Centre Reporting Pipeline](https://github.com/yashbagia1708/eda-contact-centre-pipeline)
+### 📞 [Contact Centre Reporting Pipeline](https://github.com/yashbagia1708/contact-centre-reporting-pipeline)
 A monthly reporting refresh for a contact centre, end to end: four messy source systems cleaned and conformed in Python, modelled and reconciled in MySQL, and served to a Power BI report and an Excel KPI pack, all run from one Refresh Console. All data is synthetic.
 
 `Python` `pandas` `MySQL` `Power BI` `DAX` `Docker` `GitHub Actions`
