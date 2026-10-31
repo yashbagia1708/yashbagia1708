@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **everything that interests me**
 - 👨‍💻 Some of my best projects: [see below](#projects)
 - 💬 Ask me about **DSA, ML, Cloud, and AI**
-- 📫 How to reach me **yashbagia1708@gmail.com**
+- 📫 How to reach me **yashbagia17@gmail.com**
 - ⚡ Fun fact: **I speak fluent Python, dream in cloud, and occasionally have deep frustrating debates with my code at 2 AM until it turns green.**
 
 ## Projects
